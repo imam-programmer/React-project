@@ -84,6 +84,8 @@ span{
     background-color: #161722;
     color: #FFD2A4;
     margin-top: 16px;
+    text-transform: uppercase;
+    padding: 24px 64px;
 }
 #great .great-container{
     display: flex;

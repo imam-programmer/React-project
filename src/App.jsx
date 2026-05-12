@@ -8,6 +8,7 @@ import Benefits from "./component/Benefits";
 import Great from "./component/Great";
 import World from "./component/World";
 import Share from "./component/Share";
+import Footer from "./component/Footer";
 const App = () => {
   return (
     <>
@@ -19,6 +20,7 @@ const App = () => {
       <Great />
       <World />
       <Share />
+      <Footer/>
     </>
   );
 };

@@ -78,7 +78,7 @@ text-transform: uppercase;
     padding-left: 32px;
     padding-bottom: 48px;
     box-sizing: border-box;
-    box-shadow:inset -0 -16px 0 #FFD0A0;
+    /* box-shadow:inset -0 -16px 0 #FFD0A0; */
 }
 #Share .share-container .share-box2 h6{
     font-size: 12px;
@@ -130,7 +130,7 @@ text-transform: uppercase;
     padding-left: 32px;
     padding-bottom: 48px;
     box-sizing: border-box;
-    box-shadow:inset -0 -16px 0 #FFD0A0;
+    /* box-shadow:inset -0 -16px 0 #FFD0A0; */
 }
 #Share .share-container .share-box3 h6{
     font-size: 12px;
@@ -182,7 +182,7 @@ text-transform: uppercase;
     padding-left: 32px;
     padding-bottom: 48px;
     box-sizing: border-box;
-    box-shadow:inset -0 -16px 0 #FFD0A0;
+    /* box-shadow:inset -0 -16px 0 #FFD0A0; */
 }
 #Share .share-container .share-box4 h6{
     font-size: 12px;

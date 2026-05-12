@@ -1,0 +1,86 @@
+footer{
+    background-color: #161722;
+    padding: 64px 0;
+}
+footer .footer-container .first-div #f-img-con p{
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 16px;
+    color: #FFFFFF;
+}
+footer .footer-container .first-div #f-img-con{
+    margin-bottom: 32px;
+}
+footer .footer-container .first-div p{
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-top: 16px;
+    color: #FFFFFF;
+}
+
+footer .footer-container .secont-div{
+    display: flex;
+    gap: 72px;
+}
+footer .footer-container .secont-div h5{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+}
+footer .footer-container .secont-div ul li{
+    list-style: none;
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    color: #FFFFFF;
+}
+footer .footer-container .secont-div i{
+    color: #FFD2A4;
+    font-size: 20px;
+    margin-right: 20px;
+}
+/* =================== */
+
+footer .footer-container .third-div h2{
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: 44px;
+    letter-spacing: -1px;
+    text-transform: uppercase;
+    width: 356px;
+    margin-bottom: 32px;
+}
+footer .footer-container .third-div .third-input{
+    width: 510px;
+    position: relative;
+   
+}
+footer .footer-container .third-div .third-input button{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    text-transform: uppercase;
+    padding: 24px 64px;
+}
+footer .footer-container .third-div input{
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255,.7);
+    padding: 20px 0 20px 20px;
+    background-color: transparent;
+    border-radius: 12px;
+    border: none;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255,.15);
+    box-sizing: border-box;
+}
+footer .footer-container{
+    display: flex;
+    justify-content: space-between;
+}

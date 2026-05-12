@@ -5,6 +5,10 @@
     color: white;
     height: 664px;
 }
+#banner button{
+    padding: 24px 64px ;
+    text-transform: uppercase;
+}
 #banner h4{
     padding-top: 128px;
     margin-bottom: 16px;
