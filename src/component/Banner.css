@@ -1,0 +1,45 @@
+#banner{
+    background-image: url(../image/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 664px;
+}
+#banner h4{
+    padding-top: 128px;
+    margin-bottom: 16px;
+    font-size: 16px;
+    font-size: 600;
+    text-transform: uppercase;
+}
+#banner h1{
+  font-size: 64px;
+  line-height: 82px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  width: 592px;
+  margin-bottom: 32px;
+}
+#banner button{
+ margin-bottom: 64px;
+}
+#banner p{
+font-size: 16px;
+line-height: 24px;
+font-weight: 400;
+width: 308px;
+position: relative;
+padding-left: 30px;
+}
+#banner p::before{
+content: "";
+position: absolute;
+background-color: #FFD2A4;
+height: 2px;
+width: 18px;
+top: 10px;
+left: 0px;
+}
+/* ===========Banner done============= */
+

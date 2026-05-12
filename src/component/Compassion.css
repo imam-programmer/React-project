@@ -1,0 +1,47 @@
+#Compassion{
+    margin-top: 128px;
+    text-align: center;
+}
+#Compassion p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #161722;
+    max-width: 846px;
+    margin: 0 auto;
+    margin-bottom: 56px;
+}
+#Compassion #p-tag{
+    font-size: 16px;
+    font-weight: 400;
+    color: #161722;
+    margin-bottom: 16px;
+}
+#Compassion h2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -1px;
+    color: #161722;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+}
+.compassion-img-con {
+    display: flex;
+     justify-content: center;
+     gap: 24px;
+}
+.compassion-img-con img{
+    display: block;
+    object-fit: contain;
+   
+}
+.compassion-img-con :nth-child(1){
+    margin-top: -200px;
+}
+.compassion-img-con :nth-child(3){
+    margin-top: -200px;
+}
+.Compassion-2{
+    margin-top: 48px;
+}
