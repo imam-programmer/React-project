@@ -1,0 +1,102 @@
+#great{
+    margin-top: 128px;
+    margin-bottom: 128px;
+}
+#great .p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 16px;
+     color: #161722;
+}
+#great h2{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: -1px;
+    width: 554px;
+    margin: 0 auto;
+    color: #161722;
+    margin-bottom: 64px;
+}
+#great .great-container .first-div h6{
+    background: linear-gradient(to right,#A54E2B,#DC9853);
+    display: inline-block;
+    background-clip: text;
+    color: transparent;
+    font-size: 12px;
+    letter-spacing: 8%;
+    margin-bottom: 16px;
+    margin-top: 30px;
+}
+span{
+    display: block;
+    width: 32px;
+    font-weight: 600;
+}
+#great .great-container .first-div .h6-con{
+    display: flex;
+    gap: 180px;
+    align-items: center;
+}
+#great .great-container .first-div h3{
+    font-size:24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    width: 210px;
+    margin-bottom: 16px;
+}
+#great .great-container .first-div .first-div-p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 256px;
+    margin-bottom: 32px;
+}
+#great .great-container .first-div h5{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    width: 137px;
+    display: flex;
+    /* gap: -10px; */
+    margin-bottom: 16px;
+    
+}
+#great .great-container .first-div h5 i{
+    margin-right: 20px;
+    width: 20px;
+    display: block;
+    font-size: 25px;
+}
+#great .great-container .first-div{
+    background-color: #FFF5EB;
+    width: 435px;
+    padding-top: 32px;
+    padding-left: 89px;
+    padding-bottom: 61px;
+    box-sizing: border-box;
+}
+#great .great-container .first-div button{
+    background-color: #161722;
+    color: #FFD2A4;
+    margin-top: 16px;
+}
+#great .great-container{
+    display: flex;
+    justify-content: space-between;
+}
+#great h6{
+font-size: 24px;
+font-weight: 400;
+line-height: 32px;
+color: #161722;
+margin-left: 83%;
+margin-top: 48px;
+}
+#great h6 i{
+    margin-left: 15px;
+}
