@@ -1,0 +1,110 @@
+#benefits{
+    background-color: #F5F2F0;
+    margin-top: 128px;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+#benefits #b-p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #161722;
+    text-transform: uppercase;
+    text-align: center;
+}
+#benefits h2{
+    text-align: center;
+    font-size: 48px;
+    text-transform: uppercase;
+    line-height: 64px;
+    letter-spacing: -1px;
+    max-width: 432px;
+    margin: 0 auto;
+    margin-top: 20px;
+   
+}
+.img-1{
+    background-image: url(./image/Benefits-1.png);
+    background-size: cover;
+    background-position: center;
+    width: 302px;
+    height: 384px;
+    padding-left: 32px;
+    box-sizing: border-box;
+}
+.benefits-img-container{
+    display: flex;
+    flex-shrink: 0;
+    justify-content: space-between;
+}
+.benefits-img-container .img-1 h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    width: 238px;
+    padding-top: 208px;
+}
+.benefits-img-container .img-1 p{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 16px;
+    width: 238px;
+
+}
+/* =======2nd image===========start======= */
+.img-2{
+    background-image: url(./image/Benefits-2.png);
+    background-size: cover;
+    background-position: center;
+    width: 302px;
+    height: 384px;
+    padding-left: 32px;
+    box-sizing: border-box;
+}
+.benefits-img-container .img-2 h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    width: 238px;
+    padding-top: 296px;
+}
+/* =======3nd image===========start======= */
+.img-3{
+    background-image: url(./image/Benefits-3.png);
+    background-size: cover;
+    background-position: center;
+    width: 302px;
+    height: 384px;
+    padding-left: 32px;
+    box-sizing: border-box;
+}
+.benefits-img-container .img-3 h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    width: 238px;
+    padding-top: 296px;
+}
+/* =======4nd image===========start======= */
+.img-4{
+    background-image: url(./image/Benefits-4.png);
+    background-size: cover;
+    background-position: center;
+    width: 302px;
+    height: 384px;
+    padding-left: 32px;
+    box-sizing: border-box;
+}
+.benefits-img-container .img-4 h3{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: -1px;
+    width: 238px;
+    padding-top: 296px;
+    
+}

@@ -13,6 +13,10 @@ const Compassion = () => {
     <img className='Compassion-2' src="./image/Compassion-2-img.png" alt="" />
     <img src="./image/Compassion-3-img.png" alt="" />
 </div>
+<p id='enother' style={{textTransform:'uppercase'}}>our mission & vision</p>
+<h5>celebrate WITH US</h5>
+<p id='p-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<h6>Read More<i class="fa-solid fa-arrow-right-long"></i></h6>
 </div>
     </section>
   )

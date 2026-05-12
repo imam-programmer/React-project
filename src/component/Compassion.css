@@ -10,6 +10,7 @@
     max-width: 846px;
     margin: 0 auto;
     margin-bottom: 56px;
+    
 }
 #Compassion #p-tag{
     font-size: 16px;
@@ -44,4 +45,31 @@
 }
 .Compassion-2{
     margin-top: 48px;
+}
+
+#enother{
+    margin-bottom: 16px !important;
+    margin-top: 64px !important;
+}
+#Compassion h5{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: -1px;
+    color: #161722;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+}
+#p-3{
+    width: 512px;
+}
+#Compassion h6{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+   font-size: 14px;
+   font-weight: 500;
+   margin-top: -40px;
+
 }
