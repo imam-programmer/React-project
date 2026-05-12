@@ -1,0 +1,42 @@
+#world{
+    background-image:url(./image/World-big-img.png) ;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 128px;
+}
+#world .world-div h2{
+    font-size: 48px;
+    line-height: 64px;
+    font-weight: 700;
+    text-transform: uppercase;
+    width: 378px;
+}
+#world .world-div p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    width: 302px;
+}
+#world .world-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 768px;
+    height: 480px;
+    justify-content: space-between;
+    padding-top: 72px;
+    padding-left: 48px;
+    padding-bottom: 56px;
+    padding-right: 48px;
+    box-sizing: border-box;
+    box-shadow: 0 16px 0 #FFD2A4;
+}
+#world button{
+    margin-left: 18px;
+}

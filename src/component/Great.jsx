@@ -9,7 +9,7 @@ const Great = () => {
         <div className="great-container">
             <div className="first-div">
                 <div className="h6-con">
-                <h6>Upcoming Event</h6>
+                <h6 >Upcoming Event</h6>
                 <span>20 JULY</span>
                 </div>
                 <h3>WATCH AND LISTEN TO OUR SERMONS</h3>
@@ -25,7 +25,7 @@ const Great = () => {
             </div>
             <img src="./image/Great.jpg" alt="" />
         </div>
-        <h6>View all Sermons<i class="fa-solid fa-arrow-right-long"></i></h6>
+        <h6 id='h6'>View all Sermons<i class="fa-solid fa-arrow-right-long"></i></h6>
     </div>
    </section>
   )
